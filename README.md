@@ -1,5 +1,5 @@
 
-# 🌾 Crop Recommendation Using Soil Quality Test
+# 🌾 sensor-driven-crop-recommender
 
 This project provides **crop recommendations** based on **soil quality data** collected via sensors. The system uses **IoT sensors** to gather soil data and applies **Machine Learning** algorithms to analyze the data and recommend suitable crops. It leverages Arduino for sensor integration and Python for data processing and machine learning.
 
